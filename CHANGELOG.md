@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.1.1 (2025-09-07)
+
 ## [0.3.6](https://github.com/isdk/ipc-server.js/compare/v0.3.5...v0.3.6) (2025-06-09)
 
 ## [0.3.5](https://github.com/isdk/ipc-server.js/compare/v0.3.4...v0.3.5) (2024-11-15)
